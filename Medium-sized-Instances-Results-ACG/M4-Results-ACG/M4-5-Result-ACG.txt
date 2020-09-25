@@ -1,0 +1,189 @@
+Iteration 1: Value of objective function =  1.28631e+012
+
+Iteration 2: Value of objective function =  1.28079e+012
+
+Iteration 3: Value of objective function =  1.27539e+012
+
+Iteration 4: Value of objective function =  1.26791e+012
+
+Iteration 5: Value of objective function =  1.21991e+012
+
+Iteration 6: Value of objective function =  1.21783e+012
+
+Iteration 7: Value of objective function =  1.21665e+012
+
+Iteration 8: Value of objective function =  1.21285e+012
+
+Iteration 9: Value of objective function =  1.20453e+012
+
+Iteration 10: Value of objective function =  1.20319e+012
+
+Iteration 11: Value of objective function =  1.20218e+012
+
+Iteration 12: Value of objective function =  1.2003e+012
+
+Iteration 13: Value of objective function =  1.19566e+012
+
+Iteration 14: Value of objective function =  1.19415e+012
+
+Iteration 15: Value of objective function =  1.19116e+012
+
+Iteration 16: Value of objective function =  1.18984e+012
+
+Iteration 17: Value of objective function =  1.18614e+012
+
+Iteration 18: Value of objective function =  1.1856e+012
+
+Iteration 19: Value of objective function =  1.18464e+012
+
+Iteration 20: Value of objective function =  1.18222e+012
+
+Iteration 21: Value of objective function =  1.17985e+012
+
+Iteration 22: Value of objective function =  1.17921e+012
+
+Iteration 23: Value of objective function =  1.17722e+012
+
+Iteration 24: Value of objective function =  1.17397e+012
+
+Iteration 25: Value of objective function =  1.17327e+012
+
+Iteration 26: Value of objective function =  1.17103e+012
+
+Iteration 27: Value of objective function =  1.17017e+012
+
+Iteration 28: Value of objective function =  1.16736e+012
+
+Iteration 29: Value of objective function =  1.16466e+012
+
+Iteration 30: Value of objective function =  1.15895e+012
+
+Iteration 31: Value of objective function =  1.15467e+012
+
+Iteration 32: Value of objective function =  1.15016e+012
+
+Iteration 33: Value of objective function =  1.14696e+012
+
+Iteration 34: Value of objective function =  1.14618e+012
+
+Iteration 35: Value of objective function =  1.14258e+012
+
+Iteration 36: Value of objective function =  1.13869e+012
+
+Iteration 37: Value of objective function =  1.13636e+012
+
+Iteration 38: Value of objective function =  1.13533e+012
+
+Iteration 39: Value of objective function =  1.13175e+012
+
+Iteration 40: Value of objective function =  1.1304e+012
+
+Iteration 41: Value of objective function =  1.12794e+012
+
+Iteration 42: Value of objective function =  1.11672e+012
+
+Iteration 43: Value of objective function =  1.11471e+012
+
+Iteration 44: Value of objective function =  1.11302e+012
+
+Iteration 45: Value of objective function =  1.1116e+012
+
+Iteration 46: Value of objective function =  1.1107e+012
+
+Iteration 47: Value of objective function =  1.10973e+012
+
+Iteration 48: Value of objective function =  1.10295e+012
+
+Iteration 49: Value of objective function =  1.10131e+012
+
+Iteration 50: Value of objective function =  1.03149e+012
+
+Iteration 51: Value of objective function =  1.00174e+012
+
+Iteration 52: Value of objective function =  9.99701e+011
+
+Iteration 53: Value of objective function =  9.98852e+011
+
+Iteration 54: Value of objective function =  9.9843e+011
+
+Iteration 55: Value of objective function =  9.79314e+011
+
+Iteration 56: Value of objective function =  9.78686e+011
+
+Iteration 57: Value of objective function =  9.76465e+011
+
+Iteration 58: Value of objective function =  9.75571e+011
+
+Iteration 59: Value of objective function =  9.74642e+011
+
+Iteration 60: Value of objective function =  9.74083e+011
+
+Iteration 61: Value of objective function =  9.73602e+011
+
+Iteration 62: Value of objective function =  9.73422e+011
+
+Iteration 63: Value of objective function =  9.72849e+011
+
+Iteration 64: Value of objective function =  9.72368e+011
+
+Iteration 65: Value of objective function =  9.72135e+011
+
+Iteration 66: Value of objective function =  9.71949e+011
+
+Iteration 67: Value of objective function =  9.7161e+011
+
+Iteration 68: Value of objective function =  9.70962e+011
+
+Iteration 69: Value of objective function =  9.70763e+011
+
+Iteration 70: Value of objective function =  9.70246e+011
+
+Iteration 71: Value of objective function =  9.70068e+011
+
+Iteration 72: Value of objective function =  9.6971e+011
+
+Iteration 73: Value of objective function =  9.69341e+011
+
+Iteration 74: Value of objective function =  9.6886e+011
+
+Iteration 75: Value of objective function =  9.68763e+011
+
+Iteration 76: Value of objective function =  9.68601e+011
+
+Iteration 77: Value of objective function =  9.68471e+011
+
+Iteration 78: Value of objective function =  9.68234e+011
+
+Iteration 79: Value of objective function =  9.68179e+011
+
+Iteration 80: Value of objective function =  9.68167e+011
+
+Iteration 81: Value of objective function =  9.68149e+011
+
+Iteration 82: Value of objective function =  9.68136e+011
+
+Iteration 83: Value of objective function =  9.68129e+011
+
+Iteration 84: Value of objective function =  9.68123e+011
+
+Iteration 85: Value of objective function =  9.68119e+011
+
+Iteration 86: Value of objective function =  9.68112e+011
+
+Iteration 87: Value of objective function =  9.68108e+011
+
+Iteration 88: Value of objective function =  9.68102e+011
+
+Iteration 89: Value of objective function =  9.68098e+011
+
+Iteration 90: Value of objective function =  9.68098e+011
+
+Value of objective function = 9.70215e+011
+
+Yield = 0.985493
+
+Items' area = 9.56139e+011
+
+Number of customer orders = 18042
+
+Number of mother plates = 4766

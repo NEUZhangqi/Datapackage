@@ -1,0 +1,51 @@
+Iteration 1: Value of objective function =  1.05729e+012
+
+Iteration 2: Value of objective function =  1.05285e+012
+
+Iteration 3: Value of objective function =  1.0104e+012
+
+Iteration 4: Value of objective function =  1.00555e+012
+
+Iteration 5: Value of objective function =  9.98648e+011
+
+Iteration 6: Value of objective function =  9.9634e+011
+
+Iteration 7: Value of objective function =  9.95341e+011
+
+Iteration 8: Value of objective function =  9.93006e+011
+
+Iteration 9: Value of objective function =  9.90017e+011
+
+Iteration 10: Value of objective function =  9.828e+011
+
+Iteration 11: Value of objective function =  9.63502e+011
+
+Iteration 12: Value of objective function =  9.63137e+011
+
+Iteration 13: Value of objective function =  8.90741e+011
+
+Iteration 14: Value of objective function =  8.90445e+011
+
+Iteration 15: Value of objective function =  8.89998e+011
+
+Iteration 16: Value of objective function =  8.59118e+011
+
+Iteration 17: Value of objective function =  8.53529e+011
+
+Iteration 18: Value of objective function =  8.53305e+011
+
+Iteration 19: Value of objective function =  8.30118e+011
+
+Iteration 20: Value of objective function =  8.29895e+011
+
+Iteration 21: Value of objective function =  8.29791e+011
+
+Value of objective function = 8.31357e+011
+
+Yield = 0.990774
+
+Items' area = 8.23687e+011
+
+Number of customer orders = 14010
+
+Number of mother plates = 4020
