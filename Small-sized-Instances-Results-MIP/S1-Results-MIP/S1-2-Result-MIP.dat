@@ -1,0 +1,65 @@
+S1-2.dat
+Tried aggregator 1 time.
+MIP Presolve eliminated 100 rows and 101 columns.
+MIP Presolve modified 50 coefficients.
+Reduced MIP has 200 rows, 145 columns, and 745 nonzeros.
+Reduced MIP has 125 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.03 sec. (0.44 ticks)
+Found incumbent of value 1.3000000e+009 after 0.64 sec. (1.86 ticks)
+Probing time = 0.00 sec. (0.21 ticks)
+Tried aggregator 2 times.
+MIP Presolve modified 50 coefficients.
+Aggregator did 50 substitutions.
+Reduced MIP has 150 rows, 95 columns, and 645 nonzeros.
+Reduced MIP has 75 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.09 sec. (0.57 ticks)
+Probing time = 0.00 sec. (0.14 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 150 rows, 95 columns, and 645 nonzeros.
+Reduced MIP has 75 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (0.36 ticks)
+Probing time = 0.05 sec. (0.14 ticks)
+Clique table members: 85.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.08 sec. (0.88 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                      1.30000e+009        0.0000           100.00%
+*     0+    0                      4.14770e+008        0.0000           100.00%
+      0     0        0.0000    45  4.14770e+008        0.0000      103  100.00%
+*     0+    0                      3.64520e+008        0.0000           100.00%
+      0     0        0.0000    10  3.64520e+008   Impl Bds: 1      105  100.00%
+*     0+    0                      2.97650e+008        0.0000           100.00%
+      0     0        0.0000    16  2.97650e+008      Cuts: 21      130  100.00%
+*     0+    0                      2.86450e+008        0.0000           100.00%
+      0     2        0.0000    10  2.86450e+008        0.0000      130  100.00%
+Elapsed time = 3.45 sec. (16.54 ticks, tree = 0.00 MB, solutions = 5)
+*   265+   81                      2.86200e+008  3.00000e+007            89.52%
+*   372+   75                      2.86200e+008  3.00000e+007            89.52%
+*   709    69      integral     0  2.85900e+008  3.00000e+007     5285   89.51%
+*   800    99      integral     0  2.80150e+008  3.00000e+007     6053   89.29%
+*  1213   109      integral     0  2.74900e+008  8.20000e+007     8739   70.17%
+*  1251+  109                      2.74650e+008  8.20000e+007            70.14%
+*  1285   102      integral     0  2.68900e+008  8.20000e+007     9039   69.51%
+
+Clique cuts applied:  1
+Implied bound cuts applied:  152
+Flow cuts applied:  2
+Mixed integer rounding cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    2.53 sec. (16.30 ticks)
+Parallel b&c, 32 threads:
+  Real time             =   13.98 sec. (22.44 ticks)
+  Sync time (average)   =    0.39 sec.
+  Wait time (average)   =    0.47 sec.
+                          ------------
+Total (root+branch&cut) =   16.52 sec. (38.74 ticks)
+Optimal
+Value of objective function = 2.689e+008
+Items' area = 2.689e+008
+Yield = 1
